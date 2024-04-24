@@ -1,4 +1,4 @@
-Here you can see the design of the website (front-end) 
+Here you can see the design of the website (front-end). I'm not sure if my code is working because I have some problems with SQL and couldn't solve them. If it is not working, could you please write me what should I do and how can I fix it.
 <img width="1440" alt="Screenshot 2024-04-24 at 21 25 20" src="https://github.com/janegov/socialmediafullstuck/assets/128244354/885998cf-8bc3-4ef7-9d49-b4f7b9d60259">
 <img width="1440" alt="Screenshot 2024-04-24 at 21 25 34" src="https://github.com/janegov/socialmediafullstuck/assets/128244354/2a1b7dca-76e0-4dcf-ad48-46f2df54a94b">
 <img width="1440" alt="Screenshot 2024-04-24 at 21 25 41" src="https://github.com/janegov/socialmediafullstuck/assets/128244354/a6d16952-c98a-4ec4-a30c-e63420aca5d5">
